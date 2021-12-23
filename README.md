@@ -1,5 +1,3 @@
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataWhite&layout=compact)](https://github.com/NataWhite/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataWhite&count_private=true&theme=merko)](https://github.com/NataWhite/github-readme-stats)
 
