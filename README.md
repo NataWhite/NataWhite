@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Natalia Ivanova</h1>
 <h3 align="center">Backend Nodejs developer from Lviv</h3>
 
+<a href="https://u8views.com/github/NataWhite"><img src="https://u8views.com/api/v1/github/profiles/79456117/views/day-week-month-total-count.svg"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%F0%9F%87%BA%F0%9F%87%A6-natalia-ivanova-56918820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natalia ivanova" height="30" width="40" /></a>
